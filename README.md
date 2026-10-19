@@ -25,3 +25,5 @@ The trained machine learning surrogates successfully matched the physical fideli
 To comply with university academic integrity policies for active coursework, the underlying Python source code (including FEniCSx, PyTorch, and Ax implementation scripts) has been intentionally withheld from this public repository.
 
 However, the complete methodology, mathematical formulations, network architectures, and performance analyses are fully documented in the attached project report.
+
+https://github.com/Deku-23/Data-driven-surrogate-modeling-for-elastoplastic-simulations/blob/3654995e42af0618d33f87b4a40e444e84568e17/utlkq_DAINS_Report.pdf
